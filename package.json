@@ -1,5 +1,5 @@
 {
-  "_from": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
+  "_from": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
   "_id": "stratum-pool@1.0.1",
   "_inBundle": false,
   "_integrity": "",
@@ -7,24 +7,24 @@
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
-    "rawSpec": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
-    "saveSpec": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
-    "fetchSpec": "git+https://github.com/mardock2009/Ravencoin-stratum-server.git",
+    "raw": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
+    "rawSpec": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
+    "saveSpec": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
+    "fetchSpec": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
     "gitCommittish": null
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
-  "_spec": "git+https://github.com/cryptopoolorg/cyberpool-ravencoin-stratum.git",
-  "_where": "/home/pool/cyberpool-ravencoin-stratum",
+  "_resolved": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
+  "_spec": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
+  "_where": "/home/test_pool/missing1",
   "author": {
     "name": "Cyber Pool"
   },
   "bugs": {
-    "url": "https://github.com/mardock2009/Ravencoin-stratum-server/issues"
+    "url": "https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -37,12 +37,13 @@
     "big-integer": "^1.6.48",
     "bitcoinjs-lib": "^5.2.0",
     "merkle-bitcoin": "^1.0.2",
+    "multi-hashing": "git+https://github.com/rvnminers-A-and-N/updated-node-multi-hashing.git",
     "promise": "^8.1.0"
   },
   "deprecated": false,
   "description": "High performance Stratum Server in Node.js for Ravencoin",
   "engines": {
-    "node": ">=11.15.0"
+    "node": ">=8.17.0"
   },
   "homepage": "https://github.com/mardock2009/Ravencoin-stratum-server",
   "keywords": [
