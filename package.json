@@ -19,7 +19,7 @@
   ],
   "_resolved": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
   "_spec": "git+https://github.com/rvnminers-A-and-N/Ravencoin-stratum-server.git",
-  "_where": "/home/test_pool/missing1",
+  "_where": "/home/evr/EVRNOMP",
   "author": {
     "name": "Cyber Pool"
   },
@@ -37,7 +37,7 @@
     "big-integer": "^1.6.48",
     "bitcoinjs-lib": "^5.2.0",
     "merkle-bitcoin": "^1.0.2",
-    "multi-hashing": "git+https://github.com/rvnminers-A-and-N/updated-node-multi-hashing.git",
+    "hasher-evrprogpow": "git+https://github.com/rvnminers-A-and-N/hasher-kawpow/tree/hasher-evrprogpow.git",
     "promise": "^8.1.0"
   },
   "deprecated": false,
